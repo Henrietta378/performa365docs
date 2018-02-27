@@ -3,10 +3,6 @@ Welcome to Performa365
 
 Who we are...
 
-ref
-   :ref:`Requirements`
-   
-
 
 
 .. toctree::
